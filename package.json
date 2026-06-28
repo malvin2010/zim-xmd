@@ -1,0 +1,33 @@
+{
+  "name": "zim-xmd-ultimate",
+  "version": "1.0.0",
+  "description": "ZIM XMD ULTIMATE WhatsApp MD Bot by Malvin C - Zimbabwe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.9",
+    "@hapi/boom": "10.0.1",
+    "axios": "1.6.2",
+    "express": "4.18.2",
+    "fs-extra": "11.2.0",
+    "pino": "8.17.2",
+    "qrcode": "1.5.3",
+    "socket.io": "4.7.4",
+    "yt-search": "2.10.4",
+    "@distube/ytdl-core": "4.16.10",
+    "node-fetch": "2.7.0",
+    "moment": "2.30.1",
+    "mathjs": "12.3.0",
+    "jimp": "0.22.10",
+    "node-cache": "5.1.2",
+    "fluent-ffmpeg": "2.1.2",
+    "ffmpeg-static": "5.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Malvin C - Zimbabwe 🇿🇼",
+  "license": "MIT"
+}
